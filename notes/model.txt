@@ -1,0 +1,11 @@
+import React from "react";
+
+const AddShippingAddress: React.FC = () => {
+  return (
+    <div>
+      <h1>AddShippingAddress</h1>
+    </div>
+  );
+};
+
+export default AddShippingAddress;

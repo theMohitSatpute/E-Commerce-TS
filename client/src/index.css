@@ -1,0 +1,50 @@
+body {
+  background-color: #f8f2df !important;
+}
+
+.bg-light-success {
+  background-color: #f8f2df !important;
+}
+
+/* 
+Home-Page
+*/
+.landing-page {
+  background: white url("assets/img/2s_blog_04_online-business.jpg") no-repeat
+    center;
+  height: 100vh;
+  background-size: cover;
+}
+
+.landing-page .wrapper {
+  border-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+}
+
+/* -------------------- Navbar ------------------ */
+.cart-count {
+  padding: 0 5px;
+  position: absolute;
+  margin-left: -5px;
+  margin-top: -10px;
+  background-color: yellow;
+  color: black;
+  border-radius: 10px;
+}
+
+/* ------------------ Spinner ----------------- */
+.spinner-ui {
+  position: fixed;
+  z-index: 9999;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.spinner-ui img {
+  padding-top: 300px;
+}
+
+.bg-light-grey {
+  background-color: #f8f2df !important;
+}
